@@ -1,0 +1,23 @@
+{
+  "name": "project_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliaZin/project_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliaZin/project_nodejs/issues"
+  },
+  "homepage": "https://github.com/YuliaZin/project_nodejs#readme",
+  "dependencies": {
+    "@yuliazin/ajs": "^1.0.0"
+  }
+}
